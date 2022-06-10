@@ -1,0 +1,6 @@
+framework module teamxservice {
+  umbrella header "teamxservice-umbrella.h"
+
+  export *
+  module * { export * }
+}
