@@ -271,9 +271,11 @@ packages:
   teamxservice:
     dependency: transitive
     description:
-      path: "../../teamxservice"
-      relative: true
-    source: path
+      path: "."
+      ref: master
+      resolved-ref: "29a17e1ad6b6834e215dd7b8c634a29db5528121"
+      url: "https://github.com/appstack21/teamxservice.git"
+    source: git
     version: "0.0.1"
   term_glyph:
     dependency: transitive

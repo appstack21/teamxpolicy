@@ -237,7 +237,7 @@
     },
     {
       "name": "teamxservice",
-      "rootUri": "../../../teamxservice",
+      "rootUri": "file:///Users/admin/Development/Library/flutter/.pub-cache/git/teamxservice-29a17e1ad6b6834e215dd7b8c634a29db5528121/",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
@@ -284,7 +284,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-06-08T10:38:47.817472Z",
+  "generated": "2022-06-10T03:41:09.366436Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }

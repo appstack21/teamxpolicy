@@ -25,87 +25,87 @@
 		1B2F134CA20F91D025B56CCE3EA3315A /* Pods-Runner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3C932BD54DBB963102A89E0F9E3948 /* Pods-Runner-dummy.m */; };
 		23F6B92BD39B75656700188E6F712EFC /* PdfViewerPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = DA513081630E408F3CC9FC5E8F9444CD /* PdfViewerPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		27C34CC3FD43C1566F9157FB97B1FD5A /* Pods-Runner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2B0872244F2FD3C6CEA82C7BB10BDEA3 /* SwiftTeamxservicePlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12EE75119CAE40C6AAB2E1C20866F663 /* SwiftTeamxservicePlugin.swift */; };
 		33D603DB6B218DC03E14263F89BE2B37 /* path_provider_ios-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E18A6606F0A5600AF81E222DCB493AFD /* path_provider_ios-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		374B679AB9DF8E5D8851FE379EC85140 /* teamxservice-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B5248695C5EA7AE4F5B832693F74BE9 /* teamxservice-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		374B679AB9DF8E5D8851FE379EC85140 /* teamxservice-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DE078372841288CBFB6030E385181BB3 /* teamxservice-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4025566FC8852FBC4F66E0978CA163A8 /* PdfView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9F09329F4B7BFADEB9367E791760D3D2 /* PdfView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4B953ECC7957EEB28132F9C0BD6E1ED1 /* pdf_viewer_plugin-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 995D0A23264D4E61F69759B9A9C63BE2 /* pdf_viewer_plugin-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4BD12FCC7F178865518848C116671CC8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		4E02B16DA8640C3A37F6795B9DF59789 /* path_provider_ios-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A95D39A99C54BE716B0F10D1270AB10 /* path_provider_ios-dummy.m */; };
 		5F3A52815D9E438D51DFF0A76BDC0F75 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		5FBF9F78FD6E36194A367CAFD6B5A6C8 /* SwiftTeamxservicePlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0B25AAD2B6934A01460DCCC5277D2C3 /* SwiftTeamxservicePlugin.swift */; };
 		622D4F91AC19601FBF1785B5E0103D73 /* FLTPathProviderPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = A7C98446003CA844ED3A0E997920D194 /* FLTPathProviderPlugin.m */; };
-		7E413FFDC5655C9E5D5972F944E5701E /* TeamxservicePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 3725454C92725C26A17C5C64BEB71F97 /* TeamxservicePlugin.m */; };
 		7FDC26A6A2670D9EE3CD14A1BF8FD0E5 /* PdfView.m in Sources */ = {isa = PBXBuildFile; fileRef = 854E9F6156144D945E63B1CBD873D303 /* PdfView.m */; };
+		7FEFC17F7D3C605816B0C361718958EC /* TeamxservicePlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EBB09DC7BFEBEEFA1E5B2D96CD41F6F /* TeamxservicePlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		80FA5C95276764BC87F635ECCFB496C6 /* TeamxpolicyPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C3DFD61AB041F34D13100B050DC164F /* TeamxpolicyPlugin.m */; };
 		968A26324EF8AD7ADCACA6FE04424039 /* PdfViewerPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 54B89515629F7CD8C75471B7F024D0B3 /* PdfViewerPlugin.m */; };
 		9D6D731DB38B9013250F79A2E84AC253 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		A06B3148FF61A51C70833A26E7787EE5 /* TeamxservicePlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 303C12109009C1DD2A7F62B4DDEF20F8 /* TeamxservicePlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AC80EEEF1875DA20CAA43563E70DBC9D /* TeamxservicePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 953A2467BB2C767DC9ECD51D3341D85A /* TeamxservicePlugin.m */; };
 		B2825DFF2F96AC63FAFD44D48581C316 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		B5E935E6B524AA51244DB054E746BDD1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		C01962CC5717DFC5234FCD85079566A9 /* teamxservice-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C2A864113C07F01287CC7E9C2237307 /* teamxservice-dummy.m */; };
+		C01962CC5717DFC5234FCD85079566A9 /* teamxservice-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 88AFA0BB7E7EA76F2182F00BC13437A9 /* teamxservice-dummy.m */; };
 		C95B4CDA9CCC6C3A4B7F98665D7BD76B /* pdf_viewer_plugin-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 190C08A09A6200B852BA7EBBC124F9E7 /* pdf_viewer_plugin-dummy.m */; };
 		EE869D2D703AE39AD92122BB434ED754 /* teamxpolicy-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DAC2800117333D142F93ED1BBFC470B8 /* teamxpolicy-dummy.m */; };
 		FB08ED96E13BC3BE919B2646595C61FB /* TeamxpolicyPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FF8C48697932E50DFB74C7F83AF3D36 /* TeamxpolicyPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		269420439EEC46906846320CB72BEE39 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
-			remoteInfo = Flutter;
-		};
-		409FB58B12C76DA58C35C340313E93B1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
-			remoteInfo = Flutter;
-		};
-		488F916D5B6B62CCF491BEDC3E9B2CC1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 63AF7D34DFB6886C744CB82914E18ED9;
-			remoteInfo = teamxservice;
-		};
-		6521850479FACB16040EA81062D7FD18 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
-			remoteInfo = Flutter;
-		};
-		7C0C06541B560459365C85DE6939AE9A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = EE8C6A8EBA25368B558FE70CB5B902BC;
-			remoteInfo = teamxpolicy;
-		};
-		88373A4CC474F43776DDC6D03479DFCA /* PBXContainerItemProxy */ = {
+		06E916ECB351EA175B15A303708EE9C1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2139D0BCA53CF2B80722E014F1C36860;
 			remoteInfo = pdf_viewer_plugin;
 		};
-		A6DABA4AE9D6D36BBFA35CEA574648AC /* PBXContainerItemProxy */ = {
+		1873153A14CE8C9FF718276A85EBA53C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
-			remoteInfo = Flutter;
+			remoteGlobalIDString = EE8C6A8EBA25368B558FE70CB5B902BC;
+			remoteInfo = teamxpolicy;
 		};
-		C1011FA9A1EC4C1D98A9A611724F656F /* PBXContainerItemProxy */ = {
+		522AF8E816307AB1F2FA1318B6111F14 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 0F87638CDABF68BA05567B371A176C3A;
 			remoteInfo = path_provider_ios;
 		};
-		DE88B0FE1782D38FC07C458408A40697 /* PBXContainerItemProxy */ = {
+		636495316BF438E8B5DAA6431DBF5C4C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
+			remoteInfo = Flutter;
+		};
+		80763DB62D3439AB13CAAAE520422025 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
+			remoteInfo = Flutter;
+		};
+		A966878E03E8CA6FC3170AA5B25F1AD0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
+			remoteInfo = Flutter;
+		};
+		BE4AFB47E69CB70B921092BE6131E6D1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 63AF7D34DFB6886C744CB82914E18ED9;
+			remoteInfo = teamxservice;
+		};
+		C6C4E28140B3DC895DB1CC6FDDD1F381 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1EFDDC32A34D56D411E640A81DCD9E73;
+			remoteInfo = Flutter;
+		};
+		FAFCDD0E4C46BDDCDA28B54EE6360C63 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -118,25 +118,23 @@
 		006395B735F3F32B8006A527F6CC26B8 /* teamxpolicy */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = teamxpolicy; path = teamxpolicy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		07AC1A3988B3172D9E64B327F3A9E920 /* FLTPathProviderPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FLTPathProviderPlugin.h; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/ios/Classes/FLTPathProviderPlugin.h"; sourceTree = "<group>"; };
 		0B0781C6992D992A080E8DAD9FB02E53 /* pdf_viewer_plugin-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "pdf_viewer_plugin-prefix.pch"; sourceTree = "<group>"; };
-		0B5248695C5EA7AE4F5B832693F74BE9 /* teamxservice-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "teamxservice-umbrella.h"; sourceTree = "<group>"; };
 		0BF2260DB03301C60D568DE97533911B /* teamxpolicy-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "teamxpolicy-umbrella.h"; sourceTree = "<group>"; };
 		11D100676291C3067224E81ECB426399 /* teamxpolicy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = teamxpolicy.release.xcconfig; sourceTree = "<group>"; };
-		12EE75119CAE40C6AAB2E1C20866F663 /* SwiftTeamxservicePlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftTeamxservicePlugin.swift; path = ../../../../../../../../teamxservice/ios/Classes/SwiftTeamxservicePlugin.swift; sourceTree = "<group>"; };
+		1405AC22F1C9D41C8584CE66273828EF /* teamxservice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = teamxservice.debug.xcconfig; sourceTree = "<group>"; };
+		17100E40199135C701C9184A46D5C50A /* teamxservice.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = teamxservice.modulemap; sourceTree = "<group>"; };
 		190C08A09A6200B852BA7EBBC124F9E7 /* pdf_viewer_plugin-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "pdf_viewer_plugin-dummy.m"; sourceTree = "<group>"; };
 		1FF3B55152AC933A7E89823BA4472B70 /* teamxpolicy-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "teamxpolicy-Info.plist"; sourceTree = "<group>"; };
 		239B56C6D79479DBC639382FB6A95EA0 /* pdf_viewer_plugin.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = pdf_viewer_plugin.release.xcconfig; sourceTree = "<group>"; };
 		2C3DFD61AB041F34D13100B050DC164F /* TeamxpolicyPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TeamxpolicyPlugin.m; path = ../../../../../../../ios/Classes/TeamxpolicyPlugin.m; sourceTree = "<group>"; };
 		2F6E1534D85EAA3605C9F391104714F7 /* Flutter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Flutter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		303C12109009C1DD2A7F62B4DDEF20F8 /* TeamxservicePlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TeamxservicePlugin.h; path = ../../../../../../../../teamxservice/ios/Classes/TeamxservicePlugin.h; sourceTree = "<group>"; };
 		317C26B9A7CEDD34ADE8F37FAAB7AC20 /* Pods-Runner-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Runner-frameworks.sh"; sourceTree = "<group>"; };
 		354E0C99C60652BDE2547339C3D1B8C0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../../../../../../LICENSE; sourceTree = "<group>"; };
-		3725454C92725C26A17C5C64BEB71F97 /* TeamxservicePlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TeamxservicePlugin.m; path = ../../../../../../../../teamxservice/ios/Classes/TeamxservicePlugin.m; sourceTree = "<group>"; };
 		3EBECB8948EFEF2F01ADC304BD05778D /* teamxpolicy.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = teamxpolicy.podspec; path = ../../../../../../ios/teamxpolicy.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		51825CD8F0558EFA53D9510F0E5BFA16 /* Pods-Runner-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-Info.plist"; sourceTree = "<group>"; };
 		52BD1716229864EFA84DFF274E8875C1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/LICENSE"; sourceTree = "<group>"; };
 		54B89515629F7CD8C75471B7F024D0B3 /* PdfViewerPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PdfViewerPlugin.m; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/pdf_viewer_plugin-2.0.1/ios/Classes/PdfViewerPlugin.m"; sourceTree = "<group>"; };
-		5AA15908695CCF55C95456E44DFA1F3A /* teamxservice.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = teamxservice.modulemap; sourceTree = "<group>"; };
-		64D60C6D63956D888A305BF2D36780F0 /* teamxservice-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "teamxservice-prefix.pch"; sourceTree = "<group>"; };
+		5CDEF8EC6C348BC1AD38838F566D1FC1 /* teamxservice-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "teamxservice-Info.plist"; sourceTree = "<group>"; };
+		5EBB09DC7BFEBEEFA1E5B2D96CD41F6F /* TeamxservicePlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TeamxservicePlugin.h; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/git/teamxservice-29a17e1ad6b6834e215dd7b8c634a29db5528121/ios/Classes/TeamxservicePlugin.h"; sourceTree = "<group>"; };
 		669E8F25E1897672BDB80B7EB784DA24 /* Pods-Runner */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Runner"; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6813920DB299041C55D01B02F18D31A4 /* teamxpolicy.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = teamxpolicy.modulemap; sourceTree = "<group>"; };
 		69256C025FEEC5BD0F997AA150E341D7 /* SwiftTeamxpolicyPlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftTeamxpolicyPlugin.swift; path = ../../../../../../../ios/Classes/SwiftTeamxpolicyPlugin.swift; sourceTree = "<group>"; };
@@ -146,12 +144,12 @@
 		7850ACF557325236CFCF353EC6EF8693 /* pdf_viewer_plugin.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = pdf_viewer_plugin.modulemap; sourceTree = "<group>"; };
 		78C5BFF73663CFD7803CEB333CFD86C7 /* teamxservice */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = teamxservice; path = teamxservice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B3C932BD54DBB963102A89E0F9E3948 /* Pods-Runner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Runner-dummy.m"; sourceTree = "<group>"; };
-		7DE7964EF64E52FB90DE263575895180 /* teamxservice.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = teamxservice.podspec; path = ../../../../../../../teamxservice/ios/teamxservice.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		8217C069B29A8ACF2B39BD3F7E2DEC22 /* pdf_viewer_plugin-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "pdf_viewer_plugin-Info.plist"; sourceTree = "<group>"; };
 		854E9F6156144D945E63B1CBD873D303 /* PdfView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PdfView.m; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/pdf_viewer_plugin-2.0.1/ios/Classes/PdfView.m"; sourceTree = "<group>"; };
+		88AFA0BB7E7EA76F2182F00BC13437A9 /* teamxservice-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "teamxservice-dummy.m"; sourceTree = "<group>"; };
 		8A7D4D404C78ED9307EDC335D6D6C1FB /* path_provider_ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = path_provider_ios.release.xcconfig; sourceTree = "<group>"; };
-		8C2A864113C07F01287CC7E9C2237307 /* teamxservice-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "teamxservice-dummy.m"; sourceTree = "<group>"; };
 		8D8237CA921C6B214C586B4AFDB891C6 /* teamxpolicy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = teamxpolicy.debug.xcconfig; sourceTree = "<group>"; };
+		953A2467BB2C767DC9ECD51D3341D85A /* TeamxservicePlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TeamxservicePlugin.m; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/git/teamxservice-29a17e1ad6b6834e215dd7b8c634a29db5528121/ios/Classes/TeamxservicePlugin.m"; sourceTree = "<group>"; };
 		96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Runner-umbrella.h"; sourceTree = "<group>"; };
 		995D0A23264D4E61F69759B9A9C63BE2 /* pdf_viewer_plugin-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "pdf_viewer_plugin-umbrella.h"; sourceTree = "<group>"; };
 		9A95D39A99C54BE716B0F10D1270AB10 /* path_provider_ios-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "path_provider_ios-dummy.m"; sourceTree = "<group>"; };
@@ -160,25 +158,27 @@
 		9F79F8269DC34AC56BB3D1D9652C0D86 /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
 		A7C98446003CA844ED3A0E997920D194 /* FLTPathProviderPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FLTPathProviderPlugin.m; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/ios/Classes/FLTPathProviderPlugin.m"; sourceTree = "<group>"; };
 		A7DE13ADA8732F4D7D1B044449CF5D78 /* teamxpolicy-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "teamxpolicy-prefix.pch"; sourceTree = "<group>"; };
+		B757F5B88CE50034459BA6496C68F87B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../../../../../Library/flutter/.pub-cache/git/teamxservice-29a17e1ad6b6834e215dd7b8c634a29db5528121/LICENSE"; sourceTree = "<group>"; };
 		BD2EF5407E338BD12C4B106D454DDF12 /* path_provider_ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = path_provider_ios.debug.xcconfig; sourceTree = "<group>"; };
 		BEDB77D7DFDD5C9008E7D3FC4206FEC9 /* path_provider_ios */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = path_provider_ios; path = path_provider_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BFAC36A476D3FB6CA7C1ACBE108F9B53 /* teamxservice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = teamxservice.release.xcconfig; sourceTree = "<group>"; };
+		C0B25AAD2B6934A01460DCCC5277D2C3 /* SwiftTeamxservicePlugin.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftTeamxservicePlugin.swift; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/git/teamxservice-29a17e1ad6b6834e215dd7b8c634a29db5528121/ios/Classes/SwiftTeamxservicePlugin.swift"; sourceTree = "<group>"; };
 		C465075FDD2FA0EFE6FE55EBBF0D5EFA /* path_provider_ios.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = path_provider_ios.podspec; path = "../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/ios/path_provider_ios.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C6EA98402A94995D022D330B64B5203D /* Pods-Runner-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Runner-acknowledgements.markdown"; sourceTree = "<group>"; };
-		CA6D302DEE9373156CDCBBB4BA276A76 /* teamxservice-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "teamxservice-Info.plist"; sourceTree = "<group>"; };
+		C912F7366B95070F0B53C32A484F0DA9 /* teamxservice.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = teamxservice.podspec; path = "../../../../../../../../../../../Library/flutter/.pub-cache/git/teamxservice-29a17e1ad6b6834e215dd7b8c634a29db5528121/ios/teamxservice.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CC3E683D5FB475E8562585EC3B1A8401 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/pdf_viewer_plugin-2.0.1/LICENSE"; sourceTree = "<group>"; };
 		CDAECCF4B5E08124ED410F09FD5A5DF9 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 		CE0B50DAAF649E0D504E9B2C4FEFE203 /* path_provider_ios-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "path_provider_ios-Info.plist"; sourceTree = "<group>"; };
-		CED730E3AE0D2BB8655A789EEDB712BC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../../../../../../../teamxservice/LICENSE; sourceTree = "<group>"; };
 		CEE687E95534D48042E2805CD82FE299 /* Flutter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.debug.xcconfig; sourceTree = "<group>"; };
+		CFE6FA6F4B85EE1C24C073F4447486F8 /* teamxservice-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "teamxservice-prefix.pch"; sourceTree = "<group>"; };
 		D2287D58529E909BA720141C0E6CF007 /* pdf_viewer_plugin.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = pdf_viewer_plugin.podspec; path = "../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/pdf_viewer_plugin-2.0.1/ios/pdf_viewer_plugin.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D2FA70CA298C392CB8332ADEEDD1CE85 /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
-		D928BD554AB5CC25907AB5DD47A70F12 /* teamxservice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = teamxservice.debug.xcconfig; sourceTree = "<group>"; };
 		D9F2B4CB813B4BDC4D164C6E0868930A /* Pods-Runner-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-acknowledgements.plist"; sourceTree = "<group>"; };
 		DA513081630E408F3CC9FC5E8F9444CD /* PdfViewerPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PdfViewerPlugin.h; path = "../../../../../../../../../../../../Library/flutter/.pub-cache/hosted/pub.dartlang.org/pdf_viewer_plugin-2.0.1/ios/Classes/PdfViewerPlugin.h"; sourceTree = "<group>"; };
 		DAC2800117333D142F93ED1BBFC470B8 /* teamxpolicy-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "teamxpolicy-dummy.m"; sourceTree = "<group>"; };
+		DE078372841288CBFB6030E385181BB3 /* teamxservice-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "teamxservice-umbrella.h"; sourceTree = "<group>"; };
 		DEB6804D7153973CA3A347FB6AEDF6A6 /* path_provider_ios.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = path_provider_ios.modulemap; sourceTree = "<group>"; };
 		E18A6606F0A5600AF81E222DCB493AFD /* path_provider_ios-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "path_provider_ios-umbrella.h"; sourceTree = "<group>"; };
+		E8E36E215B295D91BF809D407596C867 /* teamxservice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = teamxservice.release.xcconfig; sourceTree = "<group>"; };
 		EF9AF03F83A3A57A3884BE9A7FA9E775 /* path_provider_ios-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "path_provider_ios-prefix.pch"; sourceTree = "<group>"; };
 		F49C32B3B8CF59AB437BFD7314674868 /* Pods-Runner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Runner.modulemap"; sourceTree = "<group>"; };
 		F6C8BE99C029562C46C67C85BF6D8794 /* Flutter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.release.xcconfig; sourceTree = "<group>"; };
@@ -238,15 +238,6 @@
 			);
 			name = teamxpolicy;
 			path = ../.symlinks/plugins/teamxpolicy/ios;
-			sourceTree = "<group>";
-		};
-		0333B0C1B33EFF7E1B483BAB6F498E52 /* .symlinks */ = {
-			isa = PBXGroup;
-			children = (
-				D6DF830F9154AB6D3D9E932CB6C9064E /* plugins */,
-			);
-			name = .symlinks;
-			path = .symlinks;
 			sourceTree = "<group>";
 		};
 		0A946B923DF20941E4E4C2CF3E61DB8A /* plugins */ = {
@@ -309,6 +300,15 @@
 			path = Chubb;
 			sourceTree = "<group>";
 		};
+		165A10E36316E9C3A3CE77DF27FE1E8F /* Chubb */ = {
+			isa = PBXGroup;
+			children = (
+				4D79933E36CE51036CC562A7B6F32031 /* ChubbStudio */,
+			);
+			name = Chubb;
+			path = Chubb;
+			sourceTree = "<group>";
+		};
 		184C807F98C8920793062D0EF8323C95 /* .. */ = {
 			isa = PBXGroup;
 			children = (
@@ -333,13 +333,13 @@
 			path = "../../../../Pods/Target Support Files/path_provider_ios";
 			sourceTree = "<group>";
 		};
-		1FD44A35D6CD88F786E18E340BF75446 /* teamxservice */ = {
+		2265450A8187879536468A7F03EC458C /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				C0A72B7439ACC308505A31AF4CEF185B /* ios */,
+				9FE836BD5162F1B451DD91AAD44D123B /* .. */,
 			);
-			name = teamxservice;
-			path = teamxservice;
+			name = ..;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		2AEDEA0D4C240B039331F5FF2957AD26 /* Development Pods */ = {
@@ -349,7 +349,7 @@
 				9FCBEDDC59E754232974551033CB6030 /* path_provider_ios */,
 				EEFCBDD923F07649D08895C37AB268A3 /* pdf_viewer_plugin */,
 				030F854910B6E1F6AA07E0534F819D4B /* teamxpolicy */,
-				E73CDB0704C9FC4B71DBD22682A6D7BB /* teamxservice */,
+				C085823D25F1D521D54ABE4E7F43AFE6 /* teamxservice */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -363,24 +363,13 @@
 			path = ios;
 			sourceTree = "<group>";
 		};
-		30408C1E041898E4F6C9800388901729 /* ios */ = {
+		3B08A7C571051FFEA7DF11A73F63130A /* Projects */ = {
 			isa = PBXGroup;
 			children = (
-				0333B0C1B33EFF7E1B483BAB6F498E52 /* .symlinks */,
+				165A10E36316E9C3A3CE77DF27FE1E8F /* Chubb */,
 			);
-			name = ios;
-			path = ios;
-			sourceTree = "<group>";
-		};
-		3B55E2A667A4124AFF567394F10CC7D7 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				12EE75119CAE40C6AAB2E1C20866F663 /* SwiftTeamxservicePlugin.swift */,
-				303C12109009C1DD2A7F62B4DDEF20F8 /* TeamxservicePlugin.h */,
-				3725454C92725C26A17C5C64BEB71F97 /* TeamxservicePlugin.m */,
-			);
-			name = Classes;
-			path = Classes;
+			name = Projects;
+			path = Projects;
 			sourceTree = "<group>";
 		};
 		42267746DD9011A7C5F4914DD6981E89 /* Flutter */ = {
@@ -435,6 +424,24 @@
 			path = "../../../../Pods/Target Support Files/teamxpolicy";
 			sourceTree = "<group>";
 		};
+		497B6B19452C03AA3BBBB5C43D0860C6 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				BBE4C822906F60C9053C32179336C5EF /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		4C12E02606A9F57286C3084281C056B7 /* teamxpolicy */ = {
+			isa = PBXGroup;
+			children = (
+				814AFDEAEB5FB436BF29E881F729DDAF /* example */,
+			);
+			name = teamxpolicy;
+			path = teamxpolicy;
+			sourceTree = "<group>";
+		};
 		4CA0C95F5716348945A2F0DB5FBD9CAD /* Classes */ = {
 			isa = PBXGroup;
 			children = (
@@ -446,13 +453,13 @@
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		4FEC6600A4735B70670DA76EF4846DF2 /* teamxpolicy */ = {
+		4D79933E36CE51036CC562A7B6F32031 /* ChubbStudio */ = {
 			isa = PBXGroup;
 			children = (
-				5828E3DC9D683371551F6F19A74297ED /* example */,
+				A93206FEA92D817688AA6A6541FB4D7C /* Flutter */,
 			);
-			name = teamxpolicy;
-			path = teamxpolicy;
+			name = ChubbStudio;
+			path = ChubbStudio;
 			sourceTree = "<group>";
 		};
 		506449462C2C48AB0031C2AB604FB2D0 /* .. */ = {
@@ -472,15 +479,6 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		5828E3DC9D683371551F6F19A74297ED /* example */ = {
-			isa = PBXGroup;
-			children = (
-				30408C1E041898E4F6C9800388901729 /* ios */,
-			);
-			name = example;
-			path = example;
-			sourceTree = "<group>";
-		};
 		5B94C059921C145DE7B5D0129C799858 /* example */ = {
 			isa = PBXGroup;
 			children = (
@@ -488,15 +486,6 @@
 			);
 			name = example;
 			path = example;
-			sourceTree = "<group>";
-		};
-		5DB4054887F6D07F32A30B22E695672F /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				4FEC6600A4735B70670DA76EF4846DF2 /* teamxpolicy */,
-			);
-			name = ..;
-			path = ..;
 			sourceTree = "<group>";
 		};
 		5FC086CCB253E06ACA9746A6AED2461F /* .. */ = {
@@ -517,6 +506,15 @@
 			path = ios;
 			sourceTree = "<group>";
 		};
+		645A94FF75BC3ACED37AD61A257C2987 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				7F62D9EB49C2865C1D60EDE059A2D202 /* .symlinks */,
+			);
+			name = ios;
+			path = ios;
+			sourceTree = "<group>";
+		};
 		689A640F1959938D450882BD76504CE5 /* Flutter */ = {
 			isa = PBXGroup;
 			children = (
@@ -524,6 +522,15 @@
 			);
 			name = Flutter;
 			path = Flutter;
+			sourceTree = "<group>";
+		};
+		68E3433448A4052620D025FE327B6D60 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				3B08A7C571051FFEA7DF11A73F63130A /* Projects */,
+			);
+			name = ..;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		69DAD84A5F9F4CEC7883F780EB982BE4 /* Projects */ = {
@@ -569,6 +576,21 @@
 			);
 			name = plugins;
 			path = plugins;
+			sourceTree = "<group>";
+		};
+		7117D7809CEB8DFF8795402D8B162FC3 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				17100E40199135C701C9184A46D5C50A /* teamxservice.modulemap */,
+				88AFA0BB7E7EA76F2182F00BC13437A9 /* teamxservice-dummy.m */,
+				5CDEF8EC6C348BC1AD38838F566D1FC1 /* teamxservice-Info.plist */,
+				CFE6FA6F4B85EE1C24C073F4447486F8 /* teamxservice-prefix.pch */,
+				DE078372841288CBFB6030E385181BB3 /* teamxservice-umbrella.h */,
+				1405AC22F1C9D41C8584CE66273828EF /* teamxservice.debug.xcconfig */,
+				E8E36E215B295D91BF809D407596C867 /* teamxservice.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../../../Pods/Target Support Files/teamxservice";
 			sourceTree = "<group>";
 		};
 		73D081246B0FD9D85A3420051AED1892 /* .symlinks */ = {
@@ -624,6 +646,24 @@
 			path = Chubb;
 			sourceTree = "<group>";
 		};
+		7E8458ADAE3074193AF3806E1B3F8422 /* teamxservice */ = {
+			isa = PBXGroup;
+			children = (
+				C9063AC641AA759B9807E8D0C28C94FB /* ios */,
+			);
+			name = teamxservice;
+			path = teamxservice;
+			sourceTree = "<group>";
+		};
+		7F62D9EB49C2865C1D60EDE059A2D202 /* .symlinks */ = {
+			isa = PBXGroup;
+			children = (
+				CFAAE92E6C4E6371D4E182E003C2E2CB /* plugins */,
+			);
+			name = .symlinks;
+			path = .symlinks;
+			sourceTree = "<group>";
+		};
 		7FF868127DD6A3231FE94B3B61AFD547 /* .. */ = {
 			isa = PBXGroup;
 			children = (
@@ -631,6 +671,15 @@
 			);
 			name = ..;
 			path = ..;
+			sourceTree = "<group>";
+		};
+		814AFDEAEB5FB436BF29E881F729DDAF /* example */ = {
+			isa = PBXGroup;
+			children = (
+				645A94FF75BC3ACED37AD61A257C2987 /* ios */,
+			);
+			name = example;
+			path = example;
 			sourceTree = "<group>";
 		};
 		837CDD83F86D2171F6D425CAF17D66FF /* Pod */ = {
@@ -722,6 +771,24 @@
 			path = "../Pods/Target Support Files/Flutter";
 			sourceTree = "<group>";
 		};
+		97D7A8F2AE0F08814EDFBDCAAB5E244F /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				68E3433448A4052620D025FE327B6D60 /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		9893DBDABE7840CF35A251DE3965C8FB /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				B757F5B88CE50034459BA6496C68F87B /* LICENSE */,
+				C912F7366B95070F0B53C32A484F0DA9 /* teamxservice.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		9FCBEDDC59E754232974551033CB6030 /* path_provider_ios */ = {
 			isa = PBXGroup;
 			children = (
@@ -731,6 +798,15 @@
 			);
 			name = path_provider_ios;
 			path = ../.symlinks/plugins/path_provider_ios/ios;
+			sourceTree = "<group>";
+		};
+		9FE836BD5162F1B451DD91AAD44D123B /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				97D7A8F2AE0F08814EDFBDCAAB5E244F /* .. */,
+			);
+			name = ..;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		A245431A90B0203A833755D0FF1758AA /* .. */ = {
@@ -751,19 +827,13 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		A6C4A43970D7C83582ACA0070023D47A /* Support Files */ = {
+		A93206FEA92D817688AA6A6541FB4D7C /* Flutter */ = {
 			isa = PBXGroup;
 			children = (
-				5AA15908695CCF55C95456E44DFA1F3A /* teamxservice.modulemap */,
-				8C2A864113C07F01287CC7E9C2237307 /* teamxservice-dummy.m */,
-				CA6D302DEE9373156CDCBBB4BA276A76 /* teamxservice-Info.plist */,
-				64D60C6D63956D888A305BF2D36780F0 /* teamxservice-prefix.pch */,
-				0B5248695C5EA7AE4F5B832693F74BE9 /* teamxservice-umbrella.h */,
-				D928BD554AB5CC25907AB5DD47A70F12 /* teamxservice.debug.xcconfig */,
-				BFAC36A476D3FB6CA7C1ACBE108F9B53 /* teamxservice.release.xcconfig */,
+				4C12E02606A9F57286C3084281C056B7 /* teamxpolicy */,
 			);
-			name = "Support Files";
-			path = "../../../../Pods/Target Support Files/teamxservice";
+			name = Flutter;
+			path = Flutter;
 			sourceTree = "<group>";
 		};
 		AF8527CBFD909A59BE49A764A39D4FA0 /* ChubbStudio */ = {
@@ -820,6 +890,15 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
+		BBE4C822906F60C9053C32179336C5EF /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				2265450A8187879536468A7F03EC458C /* .. */,
+			);
+			name = ..;
+			path = ..;
+			sourceTree = "<group>";
+		};
 		BE368673EA3EE7D6C746EC981E167516 /* teamxpolicy */ = {
 			isa = PBXGroup;
 			children = (
@@ -829,13 +908,24 @@
 			path = teamxpolicy;
 			sourceTree = "<group>";
 		};
-		C0A72B7439ACC308505A31AF4CEF185B /* ios */ = {
+		C085823D25F1D521D54ABE4E7F43AFE6 /* teamxservice */ = {
 			isa = PBXGroup;
 			children = (
-				3B55E2A667A4124AFF567394F10CC7D7 /* Classes */,
+				C236122D3017F19DCB990A23CADA4DE2 /* .. */,
+				9893DBDABE7840CF35A251DE3965C8FB /* Pod */,
+				7117D7809CEB8DFF8795402D8B162FC3 /* Support Files */,
 			);
-			name = ios;
-			path = ios;
+			name = teamxservice;
+			path = ../.symlinks/plugins/teamxservice/ios;
+			sourceTree = "<group>";
+		};
+		C236122D3017F19DCB990A23CADA4DE2 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				497B6B19452C03AA3BBBB5C43D0860C6 /* .. */,
+			);
+			name = ..;
+			path = "../../../../../../../../../../../Library/flutter/.pub-cache/git/teamxservice-29a17e1ad6b6834e215dd7b8c634a29db5528121/ios";
 			sourceTree = "<group>";
 		};
 		C6D3D21173C829D24E1A533307A1FEF3 /* .. */ = {
@@ -845,6 +935,15 @@
 			);
 			name = ..;
 			path = ..;
+			sourceTree = "<group>";
+		};
+		C9063AC641AA759B9807E8D0C28C94FB /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				FD39994E830F423E1A7204B6EDB20919 /* Classes */,
+			);
+			name = ios;
+			path = ios;
 			sourceTree = "<group>";
 		};
 		CACEEED805DF8F27EB3B2A6D49B8F44F /* plugins */ = {
@@ -876,6 +975,15 @@
 			);
 			sourceTree = "<group>";
 		};
+		CFAAE92E6C4E6371D4E182E003C2E2CB /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				7E8458ADAE3074193AF3806E1B3F8422 /* teamxservice */,
+			);
+			name = plugins;
+			path = plugins;
+			sourceTree = "<group>";
+		};
 		CFDCB2794CFC6BB973B17F5C4085040B /* Pod */ = {
 			isa = PBXGroup;
 			children = (
@@ -890,15 +998,6 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D6DF830F9154AB6D3D9E932CB6C9064E /* plugins */ = {
-			isa = PBXGroup;
-			children = (
-				1FD44A35D6CD88F786E18E340BF75446 /* teamxservice */,
-			);
-			name = plugins;
-			path = plugins;
 			sourceTree = "<group>";
 		};
 		D79D16CD42F58E72A23C08A1CEF39DA1 /* Pod */ = {
@@ -917,15 +1016,6 @@
 			);
 			name = ..;
 			path = ..;
-			sourceTree = "<group>";
-		};
-		DCB74512EAA978C860FCD60C700864B8 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				CED730E3AE0D2BB8655A789EEDB712BC /* LICENSE */,
-				7DE7964EF64E52FB90DE263575895180 /* teamxservice.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		DCF222BCAB98BCFF9B13BC8A3F3255F9 /* .. */ = {
@@ -955,17 +1045,6 @@
 			path = ios;
 			sourceTree = "<group>";
 		};
-		E73CDB0704C9FC4B71DBD22682A6D7BB /* teamxservice */ = {
-			isa = PBXGroup;
-			children = (
-				FFD54C74829266B6051BAC5DAA02BC3E /* .. */,
-				DCB74512EAA978C860FCD60C700864B8 /* Pod */,
-				A6C4A43970D7C83582ACA0070023D47A /* Support Files */,
-			);
-			name = teamxservice;
-			path = ../.symlinks/plugins/teamxservice/ios;
-			sourceTree = "<group>";
-		};
 		EEFCBDD923F07649D08895C37AB268A3 /* pdf_viewer_plugin */ = {
 			isa = PBXGroup;
 			children = (
@@ -981,15 +1060,6 @@
 			isa = PBXGroup;
 			children = (
 				69DAD84A5F9F4CEC7883F780EB982BE4 /* Projects */,
-			);
-			name = ..;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		F171A9D17480519C5FC523ADC903C457 /* .. */ = {
-			isa = PBXGroup;
-			children = (
-				5DB4054887F6D07F32A30B22E695672F /* .. */,
 			);
 			name = ..;
 			path = ..;
@@ -1013,13 +1083,15 @@
 			path = teamxpolicy;
 			sourceTree = "<group>";
 		};
-		FFD54C74829266B6051BAC5DAA02BC3E /* .. */ = {
+		FD39994E830F423E1A7204B6EDB20919 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				F171A9D17480519C5FC523ADC903C457 /* .. */,
+				C0B25AAD2B6934A01460DCCC5277D2C3 /* SwiftTeamxservicePlugin.swift */,
+				5EBB09DC7BFEBEEFA1E5B2D96CD41F6F /* TeamxservicePlugin.h */,
+				953A2467BB2C767DC9ECD51D3341D85A /* TeamxservicePlugin.m */,
 			);
-			name = ..;
-			path = ../../../../../../../teamxservice/ios;
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1057,7 +1129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				374B679AB9DF8E5D8851FE379EC85140 /* teamxservice-umbrella.h in Headers */,
-				A06B3148FF61A51C70833A26E7787EE5 /* TeamxservicePlugin.h in Headers */,
+				7FEFC17F7D3C605816B0C361718958EC /* TeamxservicePlugin.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1085,7 +1157,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				20DB0D768BF728D0CB7134A2C8E97423 /* PBXTargetDependency */,
+				AC12D5BCA3ECAD037BC2654A8861F792 /* PBXTargetDependency */,
 			);
 			name = path_provider_ios;
 			productName = path_provider_ios;
@@ -1104,7 +1176,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				D00C33009F298DB1742CB439A7B8D349 /* PBXTargetDependency */,
+				4E5221710AB1700BFDCD70705B72D238 /* PBXTargetDependency */,
 			);
 			name = pdf_viewer_plugin;
 			productName = pdf_viewer_plugin;
@@ -1123,7 +1195,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				24406E042606BA909906F36B31AD7714 /* PBXTargetDependency */,
+				7FFF224CE104495F8FF9CDDA25C5A389 /* PBXTargetDependency */,
 			);
 			name = teamxservice;
 			productName = teamxservice;
@@ -1142,11 +1214,11 @@
 			buildRules = (
 			);
 			dependencies = (
-				332CCB4728F02659F6405E99A3C50C74 /* PBXTargetDependency */,
-				A5469F41B830111DE49B5FA11C4B7931 /* PBXTargetDependency */,
-				EA3BA4E0796C0BE25FF3DA059695AE52 /* PBXTargetDependency */,
-				8583E8C28C5AC8E34CB2AA92E3E95387 /* PBXTargetDependency */,
-				D35F95FA11572F59915550A240C168CB /* PBXTargetDependency */,
+				D4ACAAFD848D074A4593EEAD2B930A4C /* PBXTargetDependency */,
+				4602DADCFDFA7E4D38A358EB8DEECD83 /* PBXTargetDependency */,
+				511B1D5FB7C070E5B9EFD9BE741C284E /* PBXTargetDependency */,
+				A5ACACE4461A78AFEABE35857EB4A53C /* PBXTargetDependency */,
+				49D665BAFE80E8CD10E0E757D1E585BD /* PBXTargetDependency */,
 			);
 			name = "Pods-Runner";
 			productName = Pods_Runner;
@@ -1165,7 +1237,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				8DCD6A7788847293FB2D3852EAA92852 /* PBXTargetDependency */,
+				BE3427DA70C40FBB9F91F889445D1733 /* PBXTargetDependency */,
 			);
 			name = teamxpolicy;
 			productName = teamxpolicy;
@@ -1247,9 +1319,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B0872244F2FD3C6CEA82C7BB10BDEA3 /* SwiftTeamxservicePlugin.swift in Sources */,
+				5FBF9F78FD6E36194A367CAFD6B5A6C8 /* SwiftTeamxservicePlugin.swift in Sources */,
 				C01962CC5717DFC5234FCD85079566A9 /* teamxservice-dummy.m in Sources */,
-				7E413FFDC5655C9E5D5972F944E5701E /* TeamxservicePlugin.m in Sources */,
+				AC80EEEF1875DA20CAA43563E70DBC9D /* TeamxservicePlugin.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1293,59 +1365,59 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		20DB0D768BF728D0CB7134A2C8E97423 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = 409FB58B12C76DA58C35C340313E93B1 /* PBXContainerItemProxy */;
-		};
-		24406E042606BA909906F36B31AD7714 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = A6DABA4AE9D6D36BBFA35CEA574648AC /* PBXContainerItemProxy */;
-		};
-		332CCB4728F02659F6405E99A3C50C74 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = DE88B0FE1782D38FC07C458408A40697 /* PBXContainerItemProxy */;
-		};
-		8583E8C28C5AC8E34CB2AA92E3E95387 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = teamxpolicy;
-			target = EE8C6A8EBA25368B558FE70CB5B902BC /* teamxpolicy */;
-			targetProxy = 7C0C06541B560459365C85DE6939AE9A /* PBXContainerItemProxy */;
-		};
-		8DCD6A7788847293FB2D3852EAA92852 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = 6521850479FACB16040EA81062D7FD18 /* PBXContainerItemProxy */;
-		};
-		A5469F41B830111DE49B5FA11C4B7931 /* PBXTargetDependency */ = {
+		4602DADCFDFA7E4D38A358EB8DEECD83 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = path_provider_ios;
 			target = 0F87638CDABF68BA05567B371A176C3A /* path_provider_ios */;
-			targetProxy = C1011FA9A1EC4C1D98A9A611724F656F /* PBXContainerItemProxy */;
+			targetProxy = 522AF8E816307AB1F2FA1318B6111F14 /* PBXContainerItemProxy */;
 		};
-		D00C33009F298DB1742CB439A7B8D349 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Flutter;
-			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
-			targetProxy = 269420439EEC46906846320CB72BEE39 /* PBXContainerItemProxy */;
-		};
-		D35F95FA11572F59915550A240C168CB /* PBXTargetDependency */ = {
+		49D665BAFE80E8CD10E0E757D1E585BD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = teamxservice;
 			target = 63AF7D34DFB6886C744CB82914E18ED9 /* teamxservice */;
-			targetProxy = 488F916D5B6B62CCF491BEDC3E9B2CC1 /* PBXContainerItemProxy */;
+			targetProxy = BE4AFB47E69CB70B921092BE6131E6D1 /* PBXContainerItemProxy */;
 		};
-		EA3BA4E0796C0BE25FF3DA059695AE52 /* PBXTargetDependency */ = {
+		4E5221710AB1700BFDCD70705B72D238 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = FAFCDD0E4C46BDDCDA28B54EE6360C63 /* PBXContainerItemProxy */;
+		};
+		511B1D5FB7C070E5B9EFD9BE741C284E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = pdf_viewer_plugin;
 			target = 2139D0BCA53CF2B80722E014F1C36860 /* pdf_viewer_plugin */;
-			targetProxy = 88373A4CC474F43776DDC6D03479DFCA /* PBXContainerItemProxy */;
+			targetProxy = 06E916ECB351EA175B15A303708EE9C1 /* PBXContainerItemProxy */;
+		};
+		7FFF224CE104495F8FF9CDDA25C5A389 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = 80763DB62D3439AB13CAAAE520422025 /* PBXContainerItemProxy */;
+		};
+		A5ACACE4461A78AFEABE35857EB4A53C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = teamxpolicy;
+			target = EE8C6A8EBA25368B558FE70CB5B902BC /* teamxpolicy */;
+			targetProxy = 1873153A14CE8C9FF718276A85EBA53C /* PBXContainerItemProxy */;
+		};
+		AC12D5BCA3ECAD037BC2654A8861F792 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = 636495316BF438E8B5DAA6431DBF5C4C /* PBXContainerItemProxy */;
+		};
+		BE3427DA70C40FBB9F91F889445D1733 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = A966878E03E8CA6FC3170AA5B25F1AD0 /* PBXContainerItemProxy */;
+		};
+		D4ACAAFD848D074A4593EEAD2B930A4C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Flutter;
+			target = 1EFDDC32A34D56D411E640A81DCD9E73 /* Flutter */;
+			targetProxy = C6C4E28140B3DC895DB1CC6FDDD1F381 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -1656,7 +1728,7 @@
 		};
 		49D905A79D0FE1FFB2C6ED627BC9A81A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BFAC36A476D3FB6CA7C1ACBE108F9B53 /* teamxservice.release.xcconfig */;
+			baseConfigurationReference = E8E36E215B295D91BF809D407596C867 /* teamxservice.release.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1785,7 +1857,7 @@
 		};
 		538291C3691F51CF1FB084CC1707A69B /* Profile */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BFAC36A476D3FB6CA7C1ACBE108F9B53 /* teamxservice.release.xcconfig */;
+			baseConfigurationReference = E8E36E215B295D91BF809D407596C867 /* teamxservice.release.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2296,7 +2368,7 @@
 		};
 		FA1E0FF059CD780DB9D7CFCC97E37614 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D928BD554AB5CC25907AB5DD47A70F12 /* teamxservice.debug.xcconfig */;
+			baseConfigurationReference = 1405AC22F1C9D41C8584CE66273828EF /* teamxservice.debug.xcconfig */;
 			buildSettings = {
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

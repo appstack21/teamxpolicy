@@ -46,7 +46,7 @@ class TXPPolicyDetailSectionView extends StatelessWidget {
           getBillingCycleView(),
           getStartDateView(),
           getSponsorNameView(),
-          getPolicyDocumentView(true),
+          getPolicyDocumentView(false),
           getETaxDocumentView(),
           const SizedBox(
             height: 10,
