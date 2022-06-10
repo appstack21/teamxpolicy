@@ -1,4 +1,0 @@
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/path_provider_ios.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/pdf_viewer_plugin.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/teamxpolicy.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/teamxservice.framework
